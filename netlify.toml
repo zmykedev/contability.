@@ -1,9 +1,0 @@
-[[headers]]
-  for = "/*.js" # Root level
-  [headers.values]
-    Content-Type = "application/javascript; charset=utf-8"
-
-[[headers]]
-  for = "/assets/*.js" # Vite assets folder
-  [headers.values]
-    Content-Type = "application/javascript; charset=utf-8"
