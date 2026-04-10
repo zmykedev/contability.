@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.sii.cl)",
+      "WebFetch(domain:www.certificados.cl)",
+      "WebFetch(domain:www.chipax.com)",
+      "WebFetch(domain:chile.gestionalo.net)",
+      "WebFetch(domain:es.scribd.com)",
+      "WebFetch(domain:www.libredte.cl)",
+      "WebFetch(domain:www.duemint.com)",
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest add:*)"
+    ]
+  }
+}
